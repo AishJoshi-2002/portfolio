@@ -1,3 +1,3 @@
 export default {
-    cvLink: "https://drive.google.com/file/d/1sAnnAjGqEYNQSy2NWe484Sjv_WIpiBR2/view"
+    cvLink: "https://aishjoshi.com/Aish/Aish_Joshi_Resume.pdf"
 }
